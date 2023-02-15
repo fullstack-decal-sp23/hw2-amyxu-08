@@ -110,20 +110,20 @@ h2 {
 /* BEGIN QUESTION 2 */
 
 .thailand-red {
-  height: 20%;
+  height: 17.5%;
   background-color: #B5002D;
 }
 
 .thailand-white {
   /* TODO */
-  height: 20%;
+  height: 17.5%;
   background-color: white;
   
 }
 
 .thailand-blue {
   /* TODO */
-  height: 20%;
+  height: 30%;
   background-color: #2E2A4C;
 }
 
@@ -152,10 +152,10 @@ h2 {
 
 .mexico-img {
   /* TODO */
-  background-image: "eagle.png";
-  max-height:max-content;
-  max-width: max-content;
+  max-height: 50%;
+  width: 30%;
   align-self: center;
+  padding: 50px 15px 50px 15px; 
 }
 
 .mexico-red {
